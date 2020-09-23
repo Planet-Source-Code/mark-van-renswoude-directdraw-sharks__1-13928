@@ -1,0 +1,6 @@
+frmMain = 44, 44, 623, 449, Z, 22, 22, 601, 427, C
+clsShark = 66, 66, 645, 471, C
+modGlobals = 88, 88, 667, 493, C
+modDXFunctions = 0, 0, 579, 405, C
+clsBubble = 66, 66, 645, 471, C
+clsDiddie = 22, 22, 601, 427, C
